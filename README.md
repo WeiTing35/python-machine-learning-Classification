@@ -32,4 +32,5 @@ We can use datasets from lots of website ,and the data can be loaded into the mo
      * 4 people -> 2 
      * more people -> 3 
      <br />
+     
    * point_final=0.3*point1+0.7*point2
