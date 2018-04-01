@@ -1,7 +1,7 @@
 # python-machine-learning-Classification
 For the beginners who would like to learn ML/DL.
 
-In this example,we can learn how to use sklearn to classificate the dataset. 
+In this example,we can learn how to use sklearn to classify the dataset. 
 
 We can use datasets from lots of website ,and the data can be loaded into the models. Using SVM and KNN,these methods are suitable for classification problems. By comparing the accuracy ,we can choose the better way to processing your data. 
 
